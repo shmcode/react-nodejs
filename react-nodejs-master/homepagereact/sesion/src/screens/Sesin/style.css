@@ -1,0 +1,213 @@
+.sesin {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sesin .overlap-wrapper {
+  background-color: #ffffff;
+  border-radius: 175px;
+  height: 783px;
+  overflow: hidden;
+  width: 1421px;
+}
+
+.sesin .overlap {
+  height: 748px;
+  left: 38px;
+  position: relative;
+  top: 35px;
+  width: 1409px;
+}
+
+.sesin .estudiante {
+  height: 748px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1409px;
+}
+
+.sesin .overlap-group {
+  background-image: url(../../../static/img/vector-2.svg);
+  background-size: 100% 100%;
+  height: 748px;
+  position: relative;
+  width: 1383px;
+}
+
+.sesin .rectangle {
+  background: linear-gradient(
+    180deg,
+    rgb(145, 186, 34) 0%,
+    rgba(145, 186, 34, 0.06) 70.83%,
+    rgba(145, 186, 34, 0) 100%
+  );
+  border-radius: 100px;
+  height: 495px;
+  left: 241px;
+  position: absolute;
+  top: 198px;
+  width: 401px;
+}
+
+.sesin .img {
+  height: 409px;
+  left: 269px;
+  object-fit: cover;
+  position: absolute;
+  top: 227px;
+  width: 355px;
+}
+
+.sesin .boton-SIGNIN {
+  height: 64px;
+  left: 317px;
+  position: absolute;
+  top: 578px;
+  width: 249px;
+}
+
+.sesin .div-wrapper {
+  background: linear-gradient(180deg, rgba(145, 186, 34, 0.95) 0%, rgba(127.19, 161.5, 34.32, 0.95) 100%);
+  border-radius: 124px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 64px;
+  position: relative;
+  width: 247px;
+}
+
+.sesin .text-wrapper {
+  color: #ffffffe0;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 800;
+  height: 27px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+  width: 247px;
+}
+
+.sesin .colaborador {
+  height: 495px;
+  left: 727px;
+  position: absolute;
+  top: 208px;
+  width: 403px;
+}
+
+.sesin .div {
+  background: linear-gradient(
+    180deg,
+    rgb(145, 186, 34) 0%,
+    rgba(145, 186, 34, 0.06) 70.83%,
+    rgba(145, 186, 34, 0) 100%
+  );
+  border-radius: 100px;
+  height: 495px;
+  position: relative;
+  width: 401px;
+}
+
+.sesin .rectangle-2 {
+  height: 397px;
+  left: 29px;
+  mix-blend-mode: darken;
+  position: absolute;
+  top: 29px;
+  width: 343px;
+}
+
+.sesin .rectangle-3 {
+  background: linear-gradient(180deg, rgba(145, 186, 34, 0.95) 0%, rgba(127.19, 161.5, 34.32, 0.95) 100%);
+  border-radius: 124px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 64px;
+  left: 80px;
+  position: absolute;
+  top: 380px;
+  width: 247px;
+}
+
+.sesin .text-wrapper-2 {
+  color: #ffffffe0;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 800;
+  height: 27px;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 400px;
+  white-space: nowrap;
+  width: 247px;
+}
+
+.sesin .group {
+  height: 88px;
+  left: 57px;
+  position: absolute;
+  top: 68px;
+  width: 340px;
+}
+
+.sesin .s {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    180deg,
+    rgb(145, 186, 34) 0%,
+    rgb(136.27, 161.5, 67.96) 54.69%,
+    rgb(121.84, 145.56, 57.62) 94.27%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 48px;
+  font-weight: 800;
+  height: 33px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 0;
+  white-space: nowrap;
+  width: 336px;
+}
+
+.sesin .s-2 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+    180deg,
+    rgb(145, 186, 34) 0%,
+    rgb(136.27, 161.5, 67.96) 54.69%,
+    rgb(121.84, 145.56, 57.62) 94.27%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 64px;
+  font-weight: 800;
+  height: 41px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 47px;
+  white-space: nowrap;
+  width: 275px;
+}
